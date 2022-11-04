@@ -1,0 +1,3 @@
+[submodule "StockNotifier"]
+	path = StockNotifier
+	url = git@github.com:sykuang/StockNotifier.git

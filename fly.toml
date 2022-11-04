@@ -1,0 +1,8 @@
+# fly.toml file generated for tw-us-stock-notifer on 2022-10-18T00:01:32+08:00
+
+app = "tw-us-stock-notifer"
+kill_signal = "SIGINT"
+kill_timeout = 5
+processes = []
+
+[env]
